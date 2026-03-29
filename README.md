@@ -10,3 +10,5 @@ Why? I made a VR game to push the limits of my knowledge in C# coding and physic
 How to play: download the .apk file, plug in meta quest headset (with developer mode enabled) to a pc, use SideQuest to load the .apk file on the headset, and play! Bonus is that you can go to meta.com/casting and log in with the device owner's account to screen cast what's going on in the headset to show all your friends.
 
 I did not use AI at all for this project. All assets and code are my own or built in to Unity 6.
+
+Demo video: https://youtu.be/7pcwjmt8z1M
